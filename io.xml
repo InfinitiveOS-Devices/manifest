@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="gh"
-           fetch="https://github.com" />
 <remote name="bb"
           fetch="https://bitbucket.org/" />
 <!-- msm8226 Specific -->
